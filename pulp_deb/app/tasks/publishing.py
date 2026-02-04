@@ -95,7 +95,7 @@ def publish(
         simple (bool): Create a simple publication with all packages contained in default/all.
         structured (bool): Create a structured publication with releases and components.
         checkpoint (bool): Whether to create a checkpoint publication.
-        signing_service_pk (str): Use this SigningService to sign the Release files.
+        signing_service_pk (str): Use this SigningService to sign the Release files. ci-test
 
     """
 
